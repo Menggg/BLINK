@@ -7,12 +7,12 @@ You can find the R version here: https://github.com/YaoZhou89/BLINK
 
 OpenCL package instalation on Linux (For parallel computing)
 ----
-OpenCL package isn't pre-installed on most linux OS. Please download installation package from:
-and use ./install.sh to install it.
+OpenCL package isn't pre-installed on most linux OS. Please download installation package, AMDAPPSDK-3.0.zip.
+Unzip this folder and use ./install.sh to install OpenCL.
 
-If you just want to use single thread computing function of BLINK, please just download single thread version (blink_linux).
+If you just want to use single thread computing function of BLINK, please just download single thread version (blink_linux) and use it without any environment setting.
 
-Sometimes, you may need give the root right to BLINK executable file using command
+Sometimes, you may need to give the root right to BLINK executable file using command
 ```
 chmod 777 blink_linux
 ```
