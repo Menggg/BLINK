@@ -1,4 +1,5 @@
-##Please download demo data from https://github.com/Menggg/BLINK/tree/master/demo_data/blink_binary
+##Please download demo data from https://github.com/Menggg/BLINK/tree/master/demo_data/blink_binary and https://github.com/Menggg/BLINK/tree/master/demo_data/PLINK
+##Then put all the files in these two folders togather
 set.seed(123456)
 myY=read.table("myData.txt",head=T)
 n=2e4  ##number of samples in synthetic data file
