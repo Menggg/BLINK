@@ -7,7 +7,7 @@ setwd("YOUR PATHWAY") #set pathway
 name.gd="NAME of GENOTYPE FILE" #specify name of genotype files
 name.gm="NAME of MAP FILE" #specify name of map files
 name.pheno="NAME of PHENOTYPE FILE" #specify name of phenotype type files
-col.trait=4
+col.trait=4 #specify column number of phenotype
 
 myGD=read.table(name.gd,head=T)
 myGM=read.table(name.gm,head=T)
