@@ -3,14 +3,10 @@
 # and phenotype (USDA Ames inbred collection phenotypes) data from https://www.panzea.org/phenotypes
 # Setp2, set up pathway and specify name of data files.
 rm(list=ls()) #clean memory
-# setwd("YOUR PATHWAY") #set pathway
-# name.gd="NAME of GENOTYPE FILE" #specify name of genotype files
-# name.gm="NAME of MAP FILE" #specify name of map files
-# name.pheno="NAME of PHENOTYPE FILE" #specify name of phenotype type files
-setwd("~/Documents/")
-name.gd="Ames_GDD_DTS_GD.txt" #specify name of genotype files
-name.gm="Ames_GDD_DTS_GM.txt" #specify name of map files
-name.pheno="Romay_etal_2013_GenomeBiol_phenotypes-130503.txt" #specify name of phenotype type files
+setwd("YOUR PATHWAY") #set pathway
+name.gd="NAME of GENOTYPE FILE" #specify name of genotype files
+name.gm="NAME of MAP FILE" #specify name of map files
+name.pheno="NAME of PHENOTYPE FILE" #specify name of phenotype type files
 col.trait=4
 
 myGD=read.table(name.gd,head=T)
