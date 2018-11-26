@@ -5,6 +5,12 @@ Inspired by our recently developed FarmCPU method, we continue our practice on m
 
 You can find the R version here: https://github.com/YaoZhou89/BLINK
 
+The license notice
+----
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
 OpenCL package instalation on Linux (For parallel computing)
 ----
 OpenCL package isn't pre-installed on most Linux OS. Please download installation package, AMDAPPSDK-3.0.zip.
