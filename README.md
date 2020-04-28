@@ -16,7 +16,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 OpenCL package instalation on Linux (For parallel computing)
 ----
 OpenCL package isn't pre-installed on most Linux OS. Please DONOT download and install AMDSDK-3.0 installation package, we recommend AMDAPPSDK-2.8 from https://community.amd.com/thread/230764.
-Unzip this folder and use ./install.sh to install OpenCL. After successfully installed OpenCL, please put BLINK execuatble file and four kernel files into same folder.
+Unzip this folder and use Install-AMD-APP.sh to install OpenCL. After successfully installed OpenCL, please put BLINK execuatble file and four kernel files into same folder.
 
 If you just want to use single thread computing function of BLINK, please just download single thread version (blink_linux) and use it without any environment setting.
 
