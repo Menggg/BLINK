@@ -1,6 +1,0 @@
-Here is the to do list that includes the items and issues I will upgrade and amend in next version. Please feel free to post your comments here.
-
-1. Add inpu checking function to make sure the input format is exactly satisfy all the requirments of BLINK.
-2. amend data storage function and dot products function to support markers that have more than 3 genotypes. 
-3. expend parallel functions to support multiple nodes.
-
