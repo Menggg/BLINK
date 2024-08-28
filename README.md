@@ -1,11 +1,13 @@
-BLINK: A Package for Next Level of Genome Wide Association Studies with Both Individuals and Markers in Millions
+BLINK: A Package for Next Level of Genome-Wide Association Studies with Both Individuals and Markers in Millions
 ----
 
 Inspired by our recently developed FarmCPU method, we continue our practice on modeling and software engineering. One of the outcomes is BLINK written in C by Meng Huang. Both real and simulated data analyses demonstrated that BLINK improves statistical power further and deliver a remarkable computing speed. Now, a dataset with half million markers and half million individuals can be analyzed within an hour, compared with days by using FarmCPU. Questions and comments can be made at BLINK forum (https://groups.google.com/forum/#!forum/blink). The executable program of BLINK, help documents, demonstration data, and tutorials are freely available here.
 
+The latest executable file of BLINK beta version can always be found at https://github.com/Oliver-111/blink
+
 You can find the R version here: https://github.com/YaoZhou89/BLINK
 
-Publication and citation could be found here: https://academic.oup.com/gigascience/article/8/2/giy154/5238723
+Publication and citation can be found here: https://academic.oup.com/gigascience/article/8/2/giy154/5238723
 
 The license notice
 ----
